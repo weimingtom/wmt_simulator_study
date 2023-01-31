@@ -6,6 +6,7 @@ My favorite simulator study (not for game !!!)
 
 ## gxemul, in C    
 * for MIPS and ARM  
+* http://gavare.se/gxemul/  
 
 ## sysmips, in Java (need JDK8)      
 * running MIPS 4kc malta linux rom (linux source build not tested, only rom file)   
