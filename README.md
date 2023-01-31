@@ -14,6 +14,6 @@ My favorite simulator study (not for game !!!)
 * open source on sourceforge repo  
 * https://pages.cs.wisc.edu/~larus/spim.html  
 
-## MipsSimulator, MipsSimulatorMod    
+## MipsSimulator, MipsSimulatorMod, in Java      
 * for MIPS and Topsy OS  
 * https://github.com/pahihu/MipsSimulator  
