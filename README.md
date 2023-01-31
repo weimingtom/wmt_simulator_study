@@ -8,7 +8,7 @@ My favorite simulator study (not for game !!!)
 * for MIPS and ARM  
 
 ## sysmips, in Java (need JDK8)      
-* running 4kc malta linux rom (linux source build not tested, only rom file)   
+* running MIPS 4kc malta linux rom (linux source build not tested, only rom file)   
 
 ## qtspim, in C  
 * open source on sourceforge repo  
