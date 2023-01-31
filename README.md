@@ -10,9 +10,11 @@ My favorite simulator study (not for game !!!)
 ## sysmips, in Java (need JDK8)      
 * running MIPS 4kc malta linux rom (linux source build not tested, only rom file)   
 
-## qtspim, in C  
-* open source on sourceforge repo  
+## QtSpim, in C  
+* open source on sourceforge code    
+* https://spimsimulator.sourceforge.net  
 * https://pages.cs.wisc.edu/~larus/spim.html  
+* https://sourceforge.net/p/spimsimulator/code/HEAD/tree/  
 
 ## MipsSimulator, MipsSimulatorMod, in Java      
 * for MIPS and Topsy OS  
