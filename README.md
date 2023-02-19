@@ -2,6 +2,7 @@
 My favorite simulator study (not for game !!!)  
 
 ## jaty68k, in Java    
+* https://github.com/alexwinston/Jaty68k  
 * running m68k uclinux rom (linux source build not tested, only rom file)   
 
 ## gxemul, in C    
@@ -9,6 +10,7 @@ My favorite simulator study (not for game !!!)
 * http://gavare.se/gxemul/  
 
 ## sysmips, in Java (need JDK8)      
+* https://github.com/alexyz/sysmips  
 * running MIPS 4kc malta linux rom (linux source build not tested, only rom file)   
 
 ## QtSpim, in C  
