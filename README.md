@@ -31,3 +31,8 @@ use -w
 * https://busybox.net/downloads/binaries/  
 * https://busybox.net/downloads/binaries/1.16.1/busybox-mips  
 not busybox-mipsel
+
+## ememu, in Java  
+* https://github.com/katsuster/ememu   
+* http://www.katsuster.net/contents/java/ememu/ememu_applet.html  
+* http://www.katsuster.net/contents/java/ememu/ememu.html   
