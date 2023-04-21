@@ -34,5 +34,6 @@ not busybox-mipsel
 
 ## ememu, in Java  
 * https://github.com/katsuster/ememu   
+* https://github.com/katsuster/crosstool-builder  
 * http://www.katsuster.net/contents/java/ememu/ememu_applet.html  
 * http://www.katsuster.net/contents/java/ememu/ememu.html   
