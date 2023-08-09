@@ -37,3 +37,7 @@ not busybox-mipsel
 * https://github.com/katsuster/crosstool-builder  
 * http://www.katsuster.net/contents/java/ememu/ememu_applet.html  
 * http://www.katsuster.net/contents/java/ememu/ememu.html   
+
+## qemu  
+* https://github.com/newluhux/qemu-mt7628  
+* https://github.com/newluhux/qemu-f1c100s  
